@@ -46,6 +46,7 @@ body{
 }
 .nav-link{
     font-family: trebuchet;
+    font-size:1.2rem;
 }
 #menu-button{
     border:2px solid black;
